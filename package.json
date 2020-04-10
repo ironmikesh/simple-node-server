@@ -1,0 +1,16 @@
+{
+  "name": "mike-node-test",
+  "version": "1.0.0",
+  "description": "A node.js application that might do something",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Haines",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  }
+}
