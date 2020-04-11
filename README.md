@@ -41,6 +41,4 @@ Insert JSON in the body of the request, then send.  Record updated.
 
 Delete a single application?  You guessed it, use the applicationID in the URL and send a DELETE request.  It should no longer be in the database.
 
-localhost:3000/product should also POST, PUT, GET, and DELETE.  See the schema for JSON object creation necessary for POSTing and PUTting.
-
 Create your own schema, controller, and routes,  (don't forget to add the route file to server.js), and you should be able to save whatever you want!
